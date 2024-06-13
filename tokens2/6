@@ -1,0 +1,25 @@
+{
+    "id": 6,
+    "image": "https://alexi21.github.io/sample-project-metadata/tokens2/token3.webp",
+    "token_id": "6",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Test alexi21 zkEVM NFT",
+    "description": "This NFT is my 6th alexi21 zkEVM NFT",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Coat",
+        "value": "Tails"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Bow Tie"
+      }
+    ]
+  }
